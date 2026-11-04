@@ -4,7 +4,7 @@
 
 **Type a scene. Get the footage.**
 
-A free desktop app that turns one sentence into a video clip, on your own PC.<br>
+A free AI text-to-video app for Windows: one sentence in, one clip out, on your own PC.<br>
 No credits. No subscription. No queue.
 
 **English** · [中文](README.zh-CN.md)
@@ -31,13 +31,28 @@ No credits, no monthly plan, no monthly cap. You open the app, type a scene, and
 3. **Press generate.** The clip renders in the background and you can keep working.
 4. **Save and use.** Every clip is stored with its prompt. Export to MP4, or change a word and run it again.
 
+## Inside the app
+
+<div align="center">
+<img src="assets/screen-3.png" alt="Choosing format, length, quality and camera move" width="420">
+<img src="assets/screen-4.png" alt="Rendering a clip in the background" width="420">
+<br>
+<sub>Pick the shape and the camera move, then keep working while it renders.</sub>
+</div>
+
 ## Example
 
 > A paper lantern drifts over a quiet lake, slow tilt up to the stars.
 
 <div align="center">
-<img src="examples/lantern.gif" alt="Example clip: a paper lantern over a quiet lake" width="560"><br>
+<img src="examples/lantern.gif" alt="Example clip: a paper lantern over a quiet lake, camera tilting up to the stars" width="640"><br>
 <sub>16:9 · 10 s · High · Camera: Tilt up · <a href="examples/lantern.mp4">full clip (mp4)</a></sub>
+</div>
+
+The finished clip is saved with its prompt, ready to export or run again with a changed word:
+
+<div align="center">
+<img src="assets/screen-5.png" alt="A finished clip saved in the library with its prompt" width="860">
 </div>
 
 More examples will be added to the [`examples`](examples) folder.
