@@ -9,7 +9,7 @@
 
 [English](README.md) · **中文**
 
-[![下载](https://img.shields.io/badge/下载-Windows%20.zip-0066CC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/silverdugongenhance/promptreel/releases/latest/download/PromptReel-win-x64.zip)
+[![下载](https://img.shields.io/badge/下载-Windows%20.exe-0066CC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/silverdugongenhance/promptreel/releases/latest/download/PromptReel-desktop-win-x64.exe)
 [![网站](https://img.shields.io/badge/网站-打开-111113?style=for-the-badge)](https://promptreel.xo.je/)
 
 ![免费](https://img.shields.io/badge/价格-免费-brightgreen)
@@ -57,9 +57,11 @@
 
 ## 下载
 
-1. 从[最新发布](https://github.com/silverdugongenhance/promptreel/releases/latest)下载 `.zip` 压缩包。
-2. 解压后运行软件。
-3. 首次启动需要联网下载视频模型，之后可以离线使用。
+1. 从[最新发布](https://github.com/silverdugongenhance/promptreel/releases/latest/download/PromptReel-desktop-win-x64.exe)下载 **PromptReel-desktop-win-x64.exe**。
+2. 直接运行安装程序。无需解压，也不需要管理员权限：安装程序只放入一个文件（默认 `%LOCALAPPDATA%\Programs\PromptReel`），并在开始菜单创建快捷方式。想装到别的位置，点 **Change** 选择文件夹即可。
+3. 从开始菜单打开 PromptReel。首次启动需要联网下载视频模型，之后可以离线使用。
+
+以后要卸载，打开「设置 → 应用 → PromptReel → 卸载」即可。程序会删除自己，不会动你的文件。
 
 支持 Windows 10 或 11（64 位）。macOS 版本正在开发中。
 
