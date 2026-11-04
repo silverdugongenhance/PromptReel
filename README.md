@@ -9,7 +9,7 @@ No credits. No subscription. No queue.
 
 **English** · [中文](README.zh-CN.md)
 
-[![Download](https://img.shields.io/badge/Download-Windows%20.zip-0066CC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/silverdugongenhance/promptreel/releases/latest/download/PromptReel-win-x64.zip)
+[![Download](https://img.shields.io/badge/Download-Windows%20.exe-0066CC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/silverdugongenhance/promptreel/releases/latest/download/PromptReel-desktop-win-x64.exe)
 [![Website](https://img.shields.io/badge/Website-open-111113?style=for-the-badge)](https://promptreel.xo.je/)
 
 ![Free](https://img.shields.io/badge/price-free-brightgreen)
@@ -57,9 +57,11 @@ The finished clip is saved with its prompt, ready to export or run again with a 
 
 ## Download
 
-1. Get the `.zip` from the [latest release](https://github.com/silverdugongenhance/promptreel/releases/latest).
-2. Unpack it and run the app.
-3. On the first launch you need internet, to download the video model. After that it works offline.
+1. Download **PromptReel-desktop-win-x64.exe** from the [latest release](https://github.com/silverdugongenhance/promptreel/releases/latest/download/PromptReel-desktop-win-x64.exe).
+2. Run it. No unzipping, and no admin rights: the installer puts one file in `%LOCALAPPDATA%\Programs\PromptReel` and adds a Start menu shortcut. You can pick another folder with **Change**.
+3. Open PromptReel from the Start menu. On the first launch you need internet, to download the video model. After that it works offline.
+
+To remove it later, use Settings → Apps → PromptReel → Uninstall; the app deletes itself and leaves your files alone.
 
 Windows 10 or 11, 64-bit. macOS is in development.
 
